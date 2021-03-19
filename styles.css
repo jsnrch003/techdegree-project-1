@@ -70,7 +70,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('https://github.com/jsnrch003/techdegree-project-1/blob/main/images/background-pic.jpg') no-repeat top center;
+  background: url('https://jsnrch003.github.io/techdegree-project-1/images/background-pic.jpg') no-repeat top center;
   background-color: #284B63;
   background-blend-mode: multiply;
   background-size: cover;
@@ -126,7 +126,7 @@ header .profile-image:hover {
 }
 
 .construction {
-  background: url('https://github.com/jsnrch003/techdegree-project-1/blob/main/images/construction-pic.jpg') no-repeat center;
+  background: url('https://jsnrch003.github.io/techdegree-project-1/images/construction-pic.jpg') no-repeat center;
   background-size: cover;
   background-color: #98C1D9;
   background-blend-mode: multiply;
