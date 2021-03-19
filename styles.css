@@ -70,7 +70,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/htmlBackground.jpg') no-repeat top center;
+  background: url('images/background-pic.jpg') no-repeat top center;
   background-color: #284B63;
   background-blend-mode: multiply;
   background-size: cover;
@@ -126,7 +126,7 @@ header .profile-image:hover {
 }
 
 .construction {
-  background: url('images/underConstruction.jpg') no-repeat center;
+  background: url('images/construction-pic.jpg') no-repeat center;
   background-size: cover;
   background-color: #98C1D9;
   background-blend-mode: multiply;
